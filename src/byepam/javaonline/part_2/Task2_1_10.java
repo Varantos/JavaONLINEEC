@@ -5,7 +5,6 @@ package byepam.javaonline.part_2;
 *     элемент (освободившиеся элементы заполнить нулями). 
 *    Примечание. Дополнительный массив не использовать)
 */
-import global.Global;
 public class Task2_1_10 {
 	public static void main(String[] args) {
 					//без оптимизации

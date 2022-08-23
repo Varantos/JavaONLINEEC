@@ -1,6 +1,5 @@
 package byepam.javaonline.part_2;
 
-import global.Global;
 /*Задача 3.7
  * Найти НОД 4х натуральных чисел.
  */

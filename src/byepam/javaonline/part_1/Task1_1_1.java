@@ -5,6 +5,7 @@ package byepam.javaonline.part_1;
 import global.Global;
 public class Task1_1_1 {
 
+	
     public static void main(String[] args) {
         float a=0;
         float b=0;

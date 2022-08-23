@@ -10,7 +10,7 @@ public class Task2_1_5 {
 		 int n=Global.InPutIntVal("введите размерность массива n: ");
 		 int i=0;
 		 int[] a = new int[n];
-		 a = Global.GenVectorInt_rnd(n);  //заполняем и выводим массив в консоль
+		 a = global.Global.GenVectorInt_rnd(n);  //заполняем и выводим массив в консоль
 
 		 System.out.println(); 
 		 
