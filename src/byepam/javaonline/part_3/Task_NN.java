@@ -10,9 +10,7 @@ public class Task_NN {
 		    int k2=5;
 		    int sum=0;
 		    for(int i=0; i<num;  i++) {
-		      if ( i%k1==0 || i%k2==0) { sum=sum+ i;
-		    System.out.println("n: "+i);
-		      }
+		      if ( i%k1==0 || i%k2==0)  sum=sum+ i;
 		    }
 		    return sum;
   }
